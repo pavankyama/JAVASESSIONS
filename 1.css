@@ -1,0 +1,22 @@
+body{
+background-color:lightblue;
+
+}
+#h{
+color:navy;
+text-align:center;
+font-family:"Lucida Console",Courier,monospace;
+}
+#par{
+color:green;
+}
+img{
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   padding:5px;
+   width: 250px;
+   height:100px;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+}
